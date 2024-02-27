@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+adobe-audition
+# Adobe Audition
 
-Based on "ABC" at https://www.abc.com/
+Based on "Adobe Audition 2024 - Tutorial for beginners | Pro Audition in under 7 Minutes!" at https://www.youtube.com/watch?v=sFLe87ix2_s
 
 ## 100 - Introduction
 
